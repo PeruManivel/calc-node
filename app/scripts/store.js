@@ -1,0 +1,1 @@
+Calculator.ApplicationAdapter = DS.FixtureAdapter;
