@@ -34,7 +34,7 @@
 				}
 			});
 			//on click of C - clear contents
-			$(_globalSettings[elem.attr('id')].key_clear_style).on('click',function(e){		
+			$(_globalSettings[elem.attr('id')].calc_key_clear_style).on('click',function(e){		
 				    $(_globalSettings[elem.attr('id')].calc_output_style).html('');
 					numObj.curValue = '';
 			})
